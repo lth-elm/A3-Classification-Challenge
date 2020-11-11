@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Find the k with the best accuracy for the main classification.
+Find the label.
 
 @author: laith
 """
